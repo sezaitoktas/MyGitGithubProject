@@ -3,5 +3,6 @@ public class AtmApp {
         System.out.println("Bu bir ATM projesidir");
         System.out.println("Java is easey");
         System.out.println("Learn Java earn money");
+        System.out.println("giti ogrenmek cok kolay");
     }
 }
